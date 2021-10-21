@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "bimserverapi",
   "groupId": "org.opensourcebim",
   "artifactId": "javascriptapi",
